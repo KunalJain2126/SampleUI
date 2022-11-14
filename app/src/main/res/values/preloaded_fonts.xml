@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/archivo</item>
+        <item>@font/coming_soon</item>
+        <item>@font/martel_sans</item>
+        <item>@font/roboto_medium</item>
+        <item>@font/space_mono</item>
+    </array>
+</resources>
